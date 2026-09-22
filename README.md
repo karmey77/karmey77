@@ -4,7 +4,7 @@
 
 I turn ambiguous product and customer requirements into tested, deployable AI systems. My background in psychology, neuroscience, and data science shaped an evidence-driven way of working; my current work spans Python/Django services, Vue/TypeScript interfaces, APIs, data systems, cloud and on-premises deployment, automated testing, rollout, and production troubleshooting.
 
-## Professional work — code private
+## Professional work
 
 Previous professional GitHub account: [@mustang-lee-maiagent](https://github.com/mustang-lee-maiagent) — private-repository contribution activity from my time at MaiAgent.
 
