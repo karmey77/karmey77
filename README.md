@@ -6,6 +6,8 @@ I turn ambiguous product and customer requirements into tested, deployable AI sy
 
 ## Professional work — code private
 
+Previous professional GitHub account: [@mustang-lee-maiagent](https://github.com/mustang-lee-maiagent) — private-repository contribution activity from my time at MaiAgent.
+
 - Build and ship features for a production Generative AI platform serving **100,000+ end users across 4,000+ organizations** as of July 2026.
 - Consolidated fragmented Docker/Kubernetes on-premises packaging into a parameter-driven CLI spanning application, data, and model-serving services, reducing typical packaging-to-deployment time from **2–3 days to under one day**.
 - Built MCP and AI-agent integrations for retail and enterprise-software workflows, including Cloudflare Workers deployment, authentication, runtime tool schemas, and partner-system APIs.
